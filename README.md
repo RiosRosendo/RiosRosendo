@@ -60,10 +60,12 @@ Currently exploring autonomous systems, teleoperation, and AI-driven robotics.
 - **Serial Communication** - Device integration
 
 ### Tools & Platforms
-- **Processing 4.x** - 3D visualization
-- **Gazebo** - Robot simulation
-- **Git/GitHub** - Version control
-- **Linux/ROS Environment** - Development OS
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge)
+![Processing](https://img.shields.io/badge/Processing-3D%20Viz-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
