@@ -1,4 +1,4 @@
-# 👋 Rosendo De Los Rios Moreno
+# Rosendo De Los Rios Moreno
 
 <div align="center">
 
@@ -165,6 +165,6 @@ Check out my projects:
 
 <div align="center">
 
-**Made with ❤️ | 🔗 [Visit My Portfolio](https://riosrosendo.github.io)**
+**🔗 [Visit My Portfolio](https://riosrosendo.github.io)**
 
 </div>
