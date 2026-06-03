@@ -16,7 +16,7 @@ Specialized in Control Systems, Computer Vision & Embedded Development
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Robotics and Digital Systems Engineer with expertise in:
 - **Robotic Manipulation & Control** (ROS2, SLAM, Inverse Kinematics)
@@ -28,7 +28,7 @@ Currently exploring autonomous systems, teleoperation, and AI-driven robotics.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +64,7 @@ Currently exploring autonomous systems, teleoperation, and AI-driven robotics.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. **xArm 7 + Kinect Integration** ⚙️
 Real-time gesture recognition to control robotic arm via Kinect depth sensor
@@ -108,7 +108,7 @@ IoT system for real-time monitoring & analytics
 
 ---
 
-## 📈 Skills Breakdown
+## Skills Breakdown
 
 | Category | Skills |
 |----------|--------|
@@ -122,7 +122,7 @@ IoT system for real-time monitoring & analytics
 
 ---
 
-## 🎓 Education
+## Education
 
 **Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)**
 - Degree: Robotics & Digital Systems Engineering
@@ -130,14 +130,14 @@ IoT system for real-time monitoring & analytics
 
 ---
 
-## 📄 Curriculum Vitae
+## Curriculum Vitae
 
 - 📋 [CV en Español](https://riosrosendo.github.io/portfolio/docs/Rosendo_CV_ES.pdf)
 - 📋 [CV in English](https://riosrosendo.github.io/portfolio/docs/Rosendo_CV_EN.pdf)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/delosriosrosendo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiosRosendo)
@@ -146,7 +146,7 @@ IoT system for real-time monitoring & analytics
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiosRosendo&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiosRosendo&layout=compact&theme=dark)
