@@ -1,4 +1,4 @@
-# 👋 Rosendo De Los Rios Moreno
+# Rosendo De Los Rios Moreno
 
 <div align="center">
 
