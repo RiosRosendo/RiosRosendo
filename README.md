@@ -33,9 +33,12 @@ Currently exploring autonomous systems, teleoperation, and AI-driven robotics.
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FPGA-orange?style=for-the-badge)
 
 ### Robotics & Control
 - **ROS2 / Nav2** - Autonomous navigation & SLAM
@@ -117,7 +120,7 @@ IoT system for real-time monitoring & analytics
 | **Vision** | OpenCV, MediaPipe, Object Detection, Pose Estimation, Image Processing |
 | **Embedded** | Arduino, FreeRTOS, Microcontrollers, Real-time Systems, Firmware |
 | **Hardware** | Sensors (LiDAR, Kinect, Depth), FPGA, Motor Control, Serial Comm |
-| **Languages** | Python, C++, MATLAB, JavaScript, HTML/CSS, Verilog |
+| **Languages** | Python, C++, C, MATLAB, JavaScript, HTML/CSS, SQL, Verilog |
 | **Tools** | Git, Linux, Docker, Gazebo, Processing, Jupyter, VS Code |
 
 ---
@@ -146,10 +149,15 @@ IoT system for real-time monitoring & analytics
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Repositories
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiosRosendo&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiosRosendo&layout=compact&theme=dark)
+Check out my projects:
+- 🤖 [xArm-Kinect](https://github.com/RiosRosendo/xArm-Kinect) - Robotic arm gesture control
+- 🦾 [3dof-arm-teleoperation](https://github.com/RiosRosendo/3dof-arm-teleoperation) - Body pose arm control
+- 🚜 [Tractor-FreeRTOS](https://github.com/RiosRosendo/Tractor-FreeRTOS) - Autonomous tractor system
+- 🎮 [Tractor-Simulator-FPGA](https://github.com/RiosRosendo/Tractor-Simulator-FPGA) - Real-time simulator
+- 🚁 [UAV-Drone](https://github.com/RiosRosendo/UAV-Drone) - Autonomous flight system
+- 🌐 [RiosRosendo.github.io](https://github.com/RiosRosendo/RiosRosendo.github.io) - Portfolio website
 
 ---
 
