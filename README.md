@@ -1,4 +1,4 @@
-# Rosendo De Los Rios Moreno
+# 👋 Rosendo De Los Rios Moreno
 
 <div align="center">
 
@@ -69,61 +69,16 @@ Currently exploring autonomous systems, teleoperation, and AI-driven robotics.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Projects
 
-### 1. **xArm 7 + Kinect Integration** ⚙️
-Real-time gesture recognition to control robotic arm via Kinect depth sensor
-- **Tech:** Python, OpenCV, ROS2, xArm API
-- **Repo:** [xArm-Kinect](https://github.com/RiosRosendo/xArm-Kinect)
-- **Paper:** [xarm_kinect_paper.pdf](https://riosrosendo.github.io/portfolio/docs/xarm_kinect_paper.pdf)
-- **Team:** 4 engineers
+For detailed information about all my projects, visit my **[Portfolio](https://riosrosendo.github.io)**
 
-### 2. **3-DOF Arm Teleoperation via Body Pose** 🦾
-Control robotic arm using MediaPipe pose detection & hand gestures
-- **Tech:** Python, MediaPipe, Processing, Serial Communication
-- **Repo:** [3dof-arm-teleoperation](https://github.com/RiosRosendo/3dof-arm-teleoperation)
-- **Paper:** [3DOF_Teleoperation_Report.pdf](https://riosrosendo.github.io/portfolio/docs/miniarm_3dof_teleoperation.pdf)
-- **Video:** [Watch Demo](https://youtu.be/rwZ0-BKw0KM)
-
-### 3. **Autonomous Tractor with FreeRTOS** 🚜
-Embedded real-time system for autonomous tractor navigation
-- **Tech:** C/C++, FreeRTOS, Arduino, LiDAR, GPS
-- **Repo:** [Tractor-FreeRTOS](https://github.com/RiosRosendo/Tractor-FreeRTOS)
-- **Paper:** [Autonomous_Tractor_Report.pdf](https://riosrosendo.github.io/portfolio/docs/Autonomous_Tractor_Report.pdf)
-- **Team:** 4 engineers
-
-### 4. **Tractor Simulator with FPGA** 🎮
-Real-time tractor simulator with FPGA-based hardware acceleration
-- **Tech:** Verilog, FPGA, C++, 3D Graphics
-- **Repo:** [Tractor-Simulator-FPGA](https://github.com/RiosRosendo/Tractor-Simulator-FPGA)
-- **Paper:** [Tractor_Simulator_Report.pdf](https://riosrosendo.github.io/portfolio/docs/Tractor_Simulator_Report.pdf)
-- **Team:** 4 engineers
-
-### 5. **UAV Autonomous Flight System** 🚁
-Drone with autonomous path planning & obstacle avoidance
-- **Tech:** Python, ROS2, Computer Vision, Control Theory
-- **Repo:** [UAV-Drone](https://github.com/RiosRosendo/UAV-Drone)
-- **Paper:** [Final_Report_A01198515.pdf](https://riosrosendo.github.io/portfolio/docs/Final_Report_A01198515.pdf)
-- **Features:** SLAM, Navigation, Real-time processing
-
-### 6. **Smart Tractor Monitoring System** 📊
-IoT system for real-time monitoring & analytics
-- **Tech:** Python, Sensors, Data Analysis, MATLAB
-- **Paper:** [smart_tractor_monitor_report.pdf](https://riosrosendo.github.io/portfolio/docs/smart_tractor_monitor_report.pdf)
-
----
-
-## 📈 Skills Breakdown
-
-| Category | Skills |
-|----------|--------|
-| **Robotics** | ROS2, Nav2, SLAM, Inverse Kinematics, Path Planning, Teleoperation |
-| **Control** | PID Control, State Machines, Monte Carlo Localization, Feedback Systems |
-| **Vision** | OpenCV, MediaPipe, Object Detection, Pose Estimation, Image Processing |
-| **Embedded** | Arduino, FreeRTOS, Microcontrollers, Real-time Systems, Firmware |
-| **Hardware** | Sensors (LiDAR, Kinect, Depth), FPGA, Motor Control, Serial Comm |
-| **Languages** | Python, C++, C, MATLAB, JavaScript, HTML/CSS, SQL, Verilog |
-| **Tools** | Git, Linux, Docker, Gazebo, Processing, Jupyter, VS Code |
+Quick Links:
+- 🦾 [3-DOF Arm Teleoperation](https://github.com/RiosRosendo/3dof-arm-teleoperation)
+- ⚙️ [xArm + Kinect Integration](https://github.com/RiosRosendo/xArm-Kinect)
+- 🚜 [Autonomous Tractor](https://github.com/RiosRosendo/Tractor-FreeRTOS)
+- 🎮 [Tractor Simulator FPGA](https://github.com/RiosRosendo/Tractor-Simulator-FPGA)
+- 🚁 [UAV Autonomous System](https://github.com/RiosRosendo/UAV-Drone)
 
 ---
 
@@ -165,6 +120,6 @@ Check out my projects:
 
 <div align="center">
 
-**🔗 [Visit My Portfolio](https://riosrosendo.github.io)**
+**Made with ❤️ | 🔗 [Visit My Portfolio](https://riosrosendo.github.io)**
 
 </div>
