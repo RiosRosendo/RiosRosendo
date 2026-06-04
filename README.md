@@ -2,7 +2,7 @@
 
 # ROSENDO DE LOS RIOS MORENO
 
-### 🤖 Robotics & Digital Systems Engineer
+###   Robotics & Digital Systems Engineer
 
 ![Badge](https://img.shields.io/badge/ITESM-Monterrey-blue?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Monterrey%20MX-green?style=flat-square)
