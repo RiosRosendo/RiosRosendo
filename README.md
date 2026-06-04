@@ -115,7 +115,7 @@ Passionate about transforming innovative ideas into cutting-edge robotic solutio
 
 ---
 
-## 📚 Documentation
+## 📥 Download My CV
 
 - 📋 [CV in Spanish](https://riosrosendo.github.io/portfolio/docs/Rosendo_CV_ES.pdf)
 - 📋 [CV in English](https://riosrosendo.github.io/portfolio/docs/Rosendo_CV_EN.pdf)
