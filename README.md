@@ -145,7 +145,7 @@ Passionate about transforming innovative ideas into cutting-edge robotic solutio
 
 ---
 
-*Transforming innovative ideas into cutting-edge robotic solutions*  
+*Working in the present, focused on the future*  
 **[🔗 Visit My Complete Portfolio](https://riosrosendo.github.io)**
 
 </div>
