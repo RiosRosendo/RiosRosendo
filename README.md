@@ -1,15 +1,10 @@
 <div align="center">
 
-# ROSENDO ADRIAN DE LOS RIOS MORENO
+# ROSENDO DE LOS RIOS MORENO
 
-**Robotics & Digital Systems Engineer**
+**Robotics Engineer** | Autonomous Systems | Computer Vision | Embedded Control
 
-Specializing in autonomous systems, real-time embedded control, computer vision, and full-stack robotics development.
-
-![ITESM](https://img.shields.io/badge/ITESM-Monterrey-0066cc?style=flat)
-![Location](https://img.shields.io/badge/Monterrey-Mexico-0066cc?style=flat)
-![Status](https://img.shields.io/badge/Status-Active-00aa00?style=flat)
-![Bilingual](https://img.shields.io/badge/Languages-Spanish%20%2F%20English-0066cc?style=flat)
+![ITESM](https://img.shields.io/badge/ITESM-Monterrey-0066cc?style=flat) ![Bilingual](https://img.shields.io/badge/ES%20%2F%20EN-Bilingual-0066cc?style=flat)
 
 [Portfolio](https://riosrosendo.github.io) • [LinkedIn](https://linkedin.com/in/delosriosrosendo) • [Email](mailto:delosriosrosendo@gmail.com)
 
@@ -17,165 +12,87 @@ Specializing in autonomous systems, real-time embedded control, computer vision,
 
 </div>
 
-## PROFESSIONAL SUMMARY
+## TECHNICAL SKILLS
 
-Robotics and Digital Systems Engineer with expertise in designing and deploying complete autonomous systems. Experienced in bridging hardware and software across embedded systems, real-time control, and machine perception. Graduated from Tecnológico de Monterrey with demonstrated capability in full-stack robotics development, from firmware and FreeRTOS to SLAM algorithms and 3D computer vision.
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Verilog](https://img.shields.io/badge/Verilog-FPGA-purple?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Research & Industry Experience:**
-- Research Internship at AIST Japan: Advanced teleoperation systems with volumetric perception
-- Industry Collaboration with John Deere: Autonomous embedded navigation systems
-- Manchester Robotics: ROS2-based autonomous mobile robot control architecture
-
----
-
-## TECHNICAL COMPETENCIES
-
-### Core Robotics & Autonomous Systems
-- **ROS2 / Nav2** — Distributed robotics middleware and autonomous navigation
-- **SLAM Algorithms** — In-house particle filtering with CUDA optimization
-- **Path Planning** — A* global planning with reactive obstacle avoidance (Bug1)
-- **Inverse Kinematics** — Trajectory planning for robotic manipulators
-- **Real-Time Control** — PID-based feedback systems and motor control
-- **Teleoperation** — Low-latency remote operation with force feedback
-- **State Machines** — YASMIN for complex mission orchestration
+### Robotics & Autonomous Systems
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-orange?style=for-the-badge&logo=gazebo)
+![SLAM](https://img.shields.io/badge/SLAM-Particle%20Filter-blue?style=for-the-badge)
+![Nav2](https://img.shields.io/badge/Nav2-Navigation-blue?style=for-the-badge)
 
 ### Computer Vision & AI
-- **Object Detection** — YOLO, ArUco markers, QR recognition
-- **Pose Estimation** — MediaPipe, body tracking, hand gesture recognition
-- **3D Perception** — Point clouds, ICP registration, volumetric reconstruction (TSDF/ESDF)
-- **Deep Learning** — TensorFlow, model optimization for edge deployment
-- **Audio Processing** — MFCC feature extraction, HMM-based voice recognition
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE1?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Detection-darkblue?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-4285F4?style=for-the-badge)
 
-### Embedded Systems & Hardware Integration
-- **Real-Time OS** — FreeRTOS kernel design and optimization
-- **Microcontrollers** — STM32, ARM Cortex, AVR architecture
-- **Communication Protocols** — CAN, SPI, UART, I2C, TCP/IP
-- **FPGA Design** — Verilog logic synthesis and hardware acceleration
-- **Sensor Integration** — LiDAR, depth cameras, IMU, motor encoders
-- **Motor Control** — Servo systems, DC motor PWM, encoder feedback
+### Embedded & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Real--Time-darkgreen?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-Microcontroller-009fdf?style=for-the-badge&logo=arm)
+![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-GPU%20Computing-76B900?style=for-the-badge)
 
-### GPU Computing & Edge AI
-- **CUDA** — Parallel computing for real-time SLAM and perception
-- **NVIDIA Jetson** — Inference and real-time processing on edge hardware
-- **Distributed Architecture** — Coordinating Jetson edge compute with central planning
-
----
-
-## PROGRAMMING LANGUAGES & FRAMEWORKS
-
-| **Category** | **Technologies** |
-|---|---|
-| **Systems** | C++ (ISO 17), C (embedded), Python 3.x, MATLAB |
-| **Robotics** | ROS1/ROS2, Gazebo, NVIDIA Isaac Sim, FreeRTOS |
-| **Vision** | OpenCV 4.x, YOLO, MediaPipe, TensorFlow, Open3D |
-| **Visualization** | Processing 4.x (Java), Three.js, Gazebo rendering |
-| **Hardware** | Verilog/VHDL, Arduino SDK, STM32CubeMX, FPGA Quartus |
-| **Web** | JavaScript (React, Node.js), HTML5, CSS3, SQL |
-| **DevOps** | Git, Docker, Linux/POSIX, CI/CD pipelines |
-
----
-
-## TECHNOLOGY STACK
-
-### Robotics Platform
-- **ROS2 Humble** — Complete robotics middleware stack
-- **Gazebo Ignition Fortress** — High-fidelity robot simulation
-- **NVIDIA Isaac Sim** — AI-accelerated digital twins
-- **Nav2 Stack** — Navigation and autonomous control
-
-### Perception Pipeline
-- **OpenCV 4.x** — Computer vision algorithms (2D & 3D)
-- **MediaPipe** — Real-time pose and hand tracking
-- **YOLO v8** — Object detection and segmentation
-- **Open3D** — 3D data processing and visualization
-- **TensorFlow** — Neural network inference on edge devices
-
-### Embedded & Control
-- **FreeRTOS Kernel** — Preemptive real-time scheduling
-- **STM32 HAL** — Microcontroller abstraction layer
-- **NVIDIA CUDA Toolkit** — GPU-accelerated algorithms
-- **Verilog HDL** — FPGA logic design and synthesis
-
-### Development Environment
-- **VS Code** with C++, Python, ROS extensions
-- **Docker** for containerized development
-- **Linux/Ubuntu** 20.04, 22.04 native development
-- **Git** version control with GitHub workflow
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## FEATURED PROJECTS
 
-### Autonomous Forklift Robot for Warehouse Operations
-**Technologies:** ROS2 • C++ • Python • SLAM • CUDA • Gazebo • State Machines
-
-Custom autonomy stack for scaled warehouse environment (3.65m × 4.85m). Implemented in-house SLAM with particle filtering and CUDA acceleration, ArUco-based localization rescue system, A* navigation without Nav2, live digital twin in Gazebo, YASMIN state machine for pick-and-place missions, custom voice pipeline (MFCC→VQ→HMM), and FPGA-driven lifter control.
-
-[Repository](https://github.com/JordanPalafox/SmallAutonomousMobileRobot) • [Paper](https://riosrosendo.github.io/portfolio/docs/Custom_Autonomy_Stack_for_Warehouse.pdf) • [Video](https://www.youtube.com/shorts/AEM72Lx7E6k)
-
-### 3-DOF Robotic Arm Teleoperation via Body Pose
-**Technologies:** Python • MediaPipe • Processing • ROS2 • Serial Communication
-
-Gesture-controlled robotic arm using real-time body pose estimation. MediaPipe processes full-body keypoints to derive shoulder, elbow, and wrist angles. Hand open/close state controls gripper. Head tilt rotates the base. Achieves 85 ms end-to-end latency with <3° angular error.
-
-[Repository](https://github.com/RiosRosendo/3dof-arm-teleoperation) • [Paper](https://riosrosendo.github.io/portfolio/docs/miniarm_3dof_teleoperation.pdf) • [Video](https://www.youtube.com/shorts/video_id)
-
-### xArm 7 + Kinect Integration
-**Technologies:** Python • OpenCV • ROS2 • xArm API • Intel RealSense
-
-Real-time gesture recognition and depth-based object tracking for robotic arm manipulation. Integrated RGB-D perception with Intel RealSense, voxelization (TSDF/ESDF), and teleoperation interface via OpenHRC in Unity.
-
-[Repository](https://github.com/RiosRosendo/xArm-Kinect) • [Paper](https://riosrosendo.github.io/portfolio/docs/xarm_kinect_paper.pdf)
-
-### Autonomous Tractor Navigation System
-**Technologies:** C/C++ • FreeRTOS • STM32 • CAN/UART • LiDAR • GPS
-
-Embedded real-time firmware for autonomous agricultural robot. Developed C++ control layer on STM32 microcontrollers under FreeRTOS, integrated IMU via SPI/I2C, motor control via CAN/UART. Industry collaboration with John Deere.
-
-[Repository](https://github.com/RiosRosendo/Tractor-FreeRTOS) • [Paper](https://riosrosendo.github.io/portfolio/docs/Autonomous_Tractor_Report.pdf)
-
-### Additional Projects
-- **Vision-Based Autonomous Patrol UAV** — OpenCV + YOLO object detection, state machine control, djitellopy SDK
-- **UAV Autonomous Flight System** — ROS2 SLAM, path planning, obstacle avoidance
-- **Oil Pan Tracking & Manipulation** — 3D perception pipeline (Open3D, ICP) with 6-DOF xArm
-- **Smart Tractor Monitoring** — IoT sensor integration, data analytics, MATLAB processing
-
-[View all projects →](https://riosrosendo.github.io)
+| Project | Tech Stack | Links |
+|---------|-----------|-------|
+| **Autonomous Forklift Robot** | ROS2 • C++ • CUDA • Gazebo | [Repo](https://github.com/JordanPalafox/SmallAutonomousMobileRobot) • [Paper](https://riosrosendo.github.io/portfolio/docs/Custom_Autonomy_Stack_for_Warehouse.pdf) |
+| **3-DOF Arm Teleoperation** | Python • MediaPipe • ROS2 | [Repo](https://github.com/RiosRosendo/3dof-arm-teleoperation) • [Paper](https://riosrosendo.github.io/portfolio/docs/miniarm_3dof_teleoperation.pdf) |
+| **xArm + Kinect Integration** | Python • OpenCV • ROS2 | [Repo](https://github.com/RiosRosendo/xArm-Kinect) • [Paper](https://riosrosendo.github.io/portfolio/docs/xarm_kinect_paper.pdf) |
+| **Autonomous Tractor** | C++ • FreeRTOS • STM32 | [Repo](https://github.com/RiosRosendo/Tractor-FreeRTOS) • [Paper](https://riosrosendo.github.io/portfolio/docs/Autonomous_Tractor_Report.pdf) |
+| **Tractor Simulator FPGA** | Verilog • C++ • Gazebo | [Repo](https://github.com/RiosRosendo/Tractor-Simulator-FPGA) • [Paper](https://riosrosendo.github.io/portfolio/docs/Tractor_Simulator_Report.pdf) |
+| **UAV Autonomous System** | Python • ROS2 • SLAM | [Repo](https://github.com/RiosRosendo/UAV-Drone) • [Paper](https://riosrosendo.github.io/portfolio/docs/Final_Report_A01198515.pdf) |
 
 ---
 
-## EDUCATION & CERTIFICATIONS
+## CORE EXPERTISE
 
-**B.Eng. in Robotics and Digital Systems Engineering**  
-Tecnológico de Monterrey | Monterrey, Mexico | June 2026  
-GPA: 91/100
-
-Relevant Coursework: Advanced Embedded Systems, ROS1/ROS2, Computer Vision, Artificial Intelligence, Autonomous Systems
-
-**TOEFL IBT English Certificate**  
-Score: B2 Level (January 2025)
-
----
-
-## CURRICULUM VITAE
-
-- [CV en Español](https://riosrosendo.github.io/portfolio/docs/Rosendo_CV_ES.pdf)
-- [CV in English](https://riosrosendo.github.io/portfolio/docs/Rosendo_CV_EN.pdf)
+- **Real-Time Control** — PID, FreeRTOS, motor control, servo systems
+- **SLAM & Localization** — Particle filtering, Monte Carlo, ICP registration
+- **Path Planning** — A* algorithm, ROS2 Nav2, obstacle avoidance
+- **Computer Vision** — Object detection, pose estimation, 3D perception
+- **Teleoperation** — Low-latency remote control, force feedback
+- **Embedded Systems** — STM32, ARM, microcontroller firmware
+- **GPU Computing** — CUDA acceleration for real-time algorithms
+- **System Architecture** — Distributed robotics, edge-cloud coordination
 
 ---
 
-## CONNECT
+## EDUCATION
 
-**LinkedIn** — [delosriosrosendo](https://linkedin.com/in/delosriosrosendo)  
-**GitHub** — [RiosRosendo](https://github.com/RiosRosendo)  
-**Email** — delosriosrosendo@gmail.com  
-**Location** — Monterrey, Nuevo León, Mexico
+**B.Eng. Robotics and Digital Systems Engineering**  
+Tecnológico de Monterrey | GPA: 91/100 | June 2026
 
-**Full Portfolio** — [riosrosendo.github.io](https://riosrosendo.github.io)
+---
+
+## CV & PORTFOLIO
+
+[Download CV (Spanish)](https://riosrosendo.github.io/portfolio/docs/Rosendo_CV_ES.pdf) • [Download CV (English)](https://riosrosendo.github.io/portfolio/docs/Rosendo_CV_EN.pdf)
+
+[Full Portfolio →](https://riosrosendo.github.io)
 
 ---
 
 <div align="center">
+
+**Monterrey, Mexico** • [LinkedIn](https://linkedin.com/in/delosriosrosendo) • [GitHub](https://github.com/RiosRosendo)
 
 Working in the present. Focused on the future.
 
