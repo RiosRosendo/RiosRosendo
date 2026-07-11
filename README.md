@@ -86,6 +86,27 @@ Passionate about transforming innovative ideas into cutting-edge robotic solutio
 
 ---
 
+## 🎙️ Audio & Voice Processing
+
+- **MFCC** — Mel-Frequency Cepstral Coefficients
+- **HMM** — Hidden Markov Models for voice recognition
+- **Voice Recognition Pipeline** — Custom audio processing without Whisper
+- **Audio Processing** — Real-time sound analysis and synthesis
+
+---
+
+## 🚀 Advanced Robotics & AI
+
+- **A* Pathfinding** — Global path planning algorithms
+- **YASMIN** — State machine for autonomous missions
+- **ArUco Markers** — Visual localization and fiducial detection
+- **QR Code Detection** — Vision-based docking systems
+- **Digital Twin** — Live virtual robot simulation
+- **CUDA** — GPU-accelerated computing
+- **NVIDIA Jetson** — Edge AI and real-time processing
+
+---
+
 ## 📊 Areas of Expertise
 
 | Area | Details |
@@ -107,6 +128,7 @@ Passionate about transforming innovative ideas into cutting-edge robotic solutio
 ### 👉 [Visit My Full Portfolio](https://riosrosendo.github.io)
 
 **Quick Links to Repositories:**
+- 🏭 [Autonomous Forklift Robot](https://github.com/JordanPalafox/SmallAutonomousMobileRobot) — Warehouse AMR with custom autonomy stack
 - 🦾 [3-DOF Arm Teleoperation](https://github.com/RiosRosendo/3dof-arm-teleoperation) — Body pose controlled robotic arm
 - ⚙️ [xArm + Kinect Integration](https://github.com/RiosRosendo/xArm-Kinect) — Gesture recognition for robotic control
 - 🚜 [Autonomous Tractor System](https://github.com/RiosRosendo/Tractor-FreeRTOS) — Real-time embedded autonomous vehicle
