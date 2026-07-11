@@ -48,28 +48,28 @@ Building intelligent robots that solve real-world problems.
 ## 🚀 Featured Projects
 
 ### 🏭 Autonomous Forklift Robot
-*Full custom autonomy stack for warehouse operations*  
-ROS2 • C++ • CUDA • Gazebo • State Machines | [GitHub](https://github.com/JordanPalafox/SmallAutonomousMobileRobot) • [Video](https://www.youtube.com/shorts/AEM72Lx7E6k)
+Full custom autonomy stack for warehouse operations  
+[[GitHub](https://github.com/JordanPalafox/SmallAutonomousMobileRobot)] [[Video](https://www.youtube.com/shorts/AEM72Lx7E6k)]
 
 ### 🦾 3-DOF Arm Teleoperation
-*Control robotic arm with your body movements*  
-Python • MediaPipe • ROS2 • Processing | [GitHub](https://github.com/RiosRosendo/3dof-arm-teleoperation)
+Control robotic arm with your body movements  
+[[GitHub](https://github.com/RiosRosendo/3dof-arm-teleoperation)]
 
 ### 🔍 xArm + Kinect Integration
-*Gesture recognition for robotic manipulation*  
-Python • OpenCV • ROS2 • Intel RealSense | [GitHub](https://github.com/RiosRosendo/xArm-Kinect)
+Gesture recognition for robotic manipulation  
+[[GitHub](https://github.com/RiosRosendo/xArm-Kinect)]
 
 ### 🚜 Autonomous Tractor System
-*Real-time embedded navigation for agriculture*  
-C++ • FreeRTOS • STM32 • CAN/UART | [GitHub](https://github.com/RiosRosendo/Tractor-FreeRTOS)
+Real-time embedded navigation for agriculture  
+[[GitHub](https://github.com/RiosRosendo/Tractor-FreeRTOS)]
 
 ### 🎮 Tractor Simulator FPGA
-*Real-time hardware-accelerated simulator*  
-Verilog • C++ • Gazebo | [GitHub](https://github.com/RiosRosendo/Tractor-Simulator-FPGA)
+Real-time hardware-accelerated simulator  
+[[GitHub](https://github.com/RiosRosendo/Tractor-Simulator-FPGA)]
 
 ### 🚁 UAV Autonomous System
-*Drone with SLAM and autonomous flight*  
-Python • ROS2 • OpenCV | [GitHub](https://github.com/RiosRosendo/UAV-Drone)
+Drone with SLAM and autonomous flight  
+[[GitHub](https://github.com/RiosRosendo/UAV-Drone)]
 
 ---
 
