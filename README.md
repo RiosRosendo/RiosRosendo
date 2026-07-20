@@ -41,6 +41,7 @@
 **Open To:**
 - 🤝 Robotics Engineering roles
 - 🔬 AI/ML Research & Development
+- 🧠 Agentic AI Development
 - 🌍 Autonomous Systems Innovation
 - 📚 Collaborative Open Source Projects
 
@@ -55,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=react,javascript,html,css,webpack,babel" />
 
 ### ⚙️ Backend & Robotics Frameworks
-<img src="https://skillicons.dev/icons?i=cpp,python,ros" />
+<img src="https://skillicons.dev/icons?i=cpp,python,ros,cmake" />
 
 **ROS2** • **ROS** • **Nav2** • **Gazebo** • **YARP** • **MoveIt**
 
@@ -216,6 +217,26 @@ Led multiple end-to-end robotics projects from conception through production dep
 
 </details>
 
+<details>
+<summary><b>🇯🇵 Research Internship</b> | National Institute of Advanced Industrial Science and Technology (AIST) | Japan | 2024</summary>
+
+Conducted cutting-edge robotics research in collaboration with AIST's advanced robotics laboratory.
+
+**Key Focus:**
+- Advanced autonomous navigation algorithms for complex environments
+- Real-time perception system integration for mobile robots
+- Collaborative research on SLAM optimization techniques
+- Technical documentation and research paper preparation
+
+**Impact:**
+- Contributed to international robotics research initiatives
+- Cross-cultural technical collaboration with Japanese engineering teams
+- Enhanced expertise in state-of-the-art autonomous systems
+
+**Skills:** Research Methodology, International Collaboration, Advanced Robotics, Technical Writing
+
+</details>
+
 ---
 
 ## 🏅 Achievements
@@ -244,33 +265,6 @@ Led multiple end-to-end robotics projects from conception through production dep
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RiosRosendo)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiosRosendo&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&text_color=e6edf3&icon_color=3b82f6&border_color=30363d)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiosRosendo&theme=tokyonight&background=0d1117&stroke=30363d&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiosRosendo&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=3b82f6&text_color=e6edf3&border_color=30363d)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -287,12 +281,6 @@ Led multiple end-to-end robotics projects from conception through production dep
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake Animation](https://github.com/RiosRosendo/RiosRosendo/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
@@ -300,22 +288,30 @@ Learning:
   - Advanced GPU Computing (CUDA optimization)
   - Distributed Robotics Systems
   - Production ML Pipeline Architecture
+  - Agentic AI Systems & Orchestration
+  - Artificial Intelligence Research
 
 Building:
   - Enhanced SLAM algorithms
   - Real-time perception systems
   - Autonomous fleet management platform
+  - Intelligent Robotic Projects
+  - Agentic AI Applications
 
 Exploring:
   - Multi-robot coordination
   - Digital twin technology
   - Reinforcement Learning for robotic control
+  - Emergent Agentic Behaviors
+  - Advanced AI System Design
 
 Open To:
-  - Senior Robotics Engineer roles
+  - Robotics Engineer roles
+  - Artificial Intelligence Engineer roles
   - AI/ML Research positions
   - Technical Leadership opportunities
   - Innovative autonomous systems projects
+  - Agentic AI Development
 ```
 
 ---
@@ -337,7 +333,7 @@ Open To:
 
 <div align="center">
 
-**"Engineering intelligent systems that autonomously solve real-world problems."**
+**"Working in the present. Focused on the future."**
 
 *Last Updated: 2026 | Building in Public*
 
