@@ -271,7 +271,11 @@ Conducted cutting-edge robotics research in collaboration with AIST's advanced r
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiosRosendo&theme=tokyonight)](https://github.com/RiosRosendo)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiosRosendo&theme=tokyonight&show_icons=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RiosRosendo&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiosRosendo&theme=tokyonight&layout=compact&hide_border=true)
 
 </div>
 
