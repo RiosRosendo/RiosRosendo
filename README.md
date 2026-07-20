@@ -1,8 +1,8 @@
 <div align="center">
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:1e3a8a&height=300&section=header&text=ROSENDO%20DE%20LOS%20RIOS&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Robotics%20%7C%20Autonomous%20Systems%20%7C%20Computer%20Vision&descAlignY=65&descSize=20)
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:1e3a8a&height=300&section=header&text=ROSENDO%20DE%20LOS%20RIOS&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Robotics%20%7C%20Autonomous%20Systems%20%7C%20Computer%20Vision%20%7C%20AI&descAlignY=65&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3b82f6&center=true&vCenter=true&width=800&lines=Robotics+%26+Digital+Systems+Engineer;Building+Intelligent+Autonomous+Systems;From+SLAM+to+GPU-Accelerated+Vision)](https://github.com/RiosRosendo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3b82f6&center=true&vCenter=true&width=800&lines=Robotics+%26+Digital+Systems+Engineer;Building+Intelligent+Autonomous+Systems;From+SLAM+to+GPU-Accelerated+Vision+%26+AI)](https://github.com/RiosRosendo)
 
 <div align="center">
 
