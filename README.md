@@ -218,22 +218,24 @@ Led multiple end-to-end robotics projects from conception through production dep
 </details>
 
 <details>
-<summary><b>🇯🇵 Research Internship</b> | National Institute of Advanced Industrial Science and Technology (AIST) | Japan | 2024</summary>
+<summary><b>🇯🇵 Research Internship</b> | National Institute of Advanced Industrial Science and Technology (AIST) | Aug 2025 – Feb 2026</summary>
 
-Conducted cutting-edge robotics research in collaboration with AIST's advanced robotics laboratory.
+**Location:** Tokyo Waterfront, National Institute of Advanced Industrial Science and Technology, Tokyo, Japan
 
-**Key Focus:**
-- Advanced autonomous navigation algorithms for complex environments
-- Real-time perception system integration for mobile robots
-- Collaborative research on SLAM optimization techniques
-- Technical documentation and research paper preparation
+Conducted cutting-edge robotics research in collaboration with AIST's advanced robotics laboratory on real-time perception and assistive robotics systems.
 
-**Impact:**
-- Contributed to international robotics research initiatives
-- Cross-cultural technical collaboration with Japanese engineering teams
-- Enhanced expertise in state-of-the-art autonomous systems
+**Key Achievements:**
+- **Obstacle Avoidance System:** Reduced obstacle collision risk by implementing ESDF-based assistive braking on a UR5e arm, achieving <6 cm safety threshold at 40–70 ms braking latency
+- **3D Reconstruction Pipeline:** Built real-time TSDF/ESDF volumetric reconstruction pipeline in ROS2 from Intel RealSense D435 depth data
+- **Teleoperation Stack:** Enabled live operator feedback at 15–18 Hz with 140–210 ms end-to-end latency by integrating CPU TSDF integrator (Open3D), DBSCAN object clustering, and ROS-TCP-Connector Unity bridge
 
-**Skills:** Research Methodology, International Collaboration, Advanced Robotics, Technical Writing
+**Technical Highlights:**
+- Real-time 3D volumetric mapping and reconstruction
+- Safety-critical robotic arm control with collision prevention
+- Multi-threaded teleoperation system with low-latency feedback
+- Cross-platform integration (ROS2 ↔ Unity)
+
+**Skills:** Real-time Perception, 3D Reconstruction, Safety-Critical Systems, Robotic Manipulation, International Research
 
 </details>
 
