@@ -267,16 +267,13 @@ Conducted cutting-edge robotics research in collaboration with AIST's advanced r
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Contributions](https://github.com/RiosRosendo)
+![](https://github-readme-stats.vercel.app/api?username=RiosRosendo&show_icons=true&theme=dark)
 
-**Total Contributions:** 232+ | **Current Streak:** 8 days  
-**Last Updated:** 2026-07-20
-
-View full activity on [GitHub Profile](https://github.com/RiosRosendo)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiosRosendo&theme=dark&layout=compact)
 
 </div>
 
