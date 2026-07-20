@@ -273,7 +273,7 @@ Conducted cutting-edge robotics research in collaboration with AIST's advanced r
 
 [![Rosendo's GitHub Stats](https://github-stats-extended.vercel.app/api?username=RiosRosendo&show_icons=true&bg_color=ffffff&title_color=0066cc&text_color=0033aa&icon_color=0066cc&border_color=0099ff)](https://github.com/RiosRosendo)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiosRosendo&background=ffffff&stroke=0066cc&ring=0066cc&fire=0099ff&currStreakLabel=0066cc)](https://github.com/RiosRosendo)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RiosRosendo&theme=dark&background=1a1a2e&stroke=0066cc&ring=3b82f6&fire=0099ff&currStreakLabel=3b82f6)](https://github.com/RiosRosendo)
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RiosRosendo&layout=compact&bg_color=ffffff&title_color=0066cc&text_color=0033aa&border_color=0099ff&langs_count=8)](https://github.com/RiosRosendo)
 
