@@ -279,16 +279,6 @@ Conducted cutting-edge robotics research in collaboration with AIST's advanced r
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RiosRosendo&theme=tokyonight&no-frame=true&margin-w=15&row=1)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RiosRosendo&theme=tokyo-night&bg_color=0d1117&color=3b82f6&line=1e40af&point=3b82f6&area=true&hide_border=true)
